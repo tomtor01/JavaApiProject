@@ -1,0 +1,7 @@
+[
+  {"city": "Warsaw", "coord": {"lat": 52.230, "lon": 21.012}},
+  {"city": "Poznan", "coord": {"lat": 52.407, "lon": 16.930}},
+  {"city": "Tokio", "coord": {"lat": 35.690, "lon": 139.692}},
+  {"city": "London", "coord": {"lat": 51.508, "lon": -0.126}},
+  {"city": "Rome", "coord": {"lat": 41.895, "lon": 12.484}}
+]
